@@ -44,6 +44,9 @@ python3 parse_logs.py <logfile>
 
 For example, you can use this command to check the progress of an ongoing evaluation run.
 
+Our logs are available [here](https://drive.google.com/drive/folders/1e9LvOXhaJucn2bS7nvwE2YHdancPuCGy?usp=sharing).
+
+
 ## Hyperparameters
 
 You can specify algorithm / data hyperparameters by passing arguments to the `main.py` script:
