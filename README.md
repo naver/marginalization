@@ -1,6 +1,6 @@
 # Marginalization over tokenizations
 
-This repository contains code for running our _marginalization over tokenizatons_ algorithm presented in our [ACL'23 paper]():
+This repository contains code for running our _marginalization over tokenizatons_ algorithm presented in our [ACL'23 paper](http://arxiv.org/abs/2306.17757):
 
 ```bibtex
 @inproceedings{marginaliation,
